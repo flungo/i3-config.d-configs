@@ -10,3 +10,4 @@ These are my personal i3 configurations which I use in conjunction with the [i3-
 * `20-mouse.conf` configurations for using mouse with i3.
 * `30-resize-mode.conf` resize mode configuration.
 * `40-bar.conf` i3bar configuration.
+* `50-i3lock.conf` i3lock configuration.
