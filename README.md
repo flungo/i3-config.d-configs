@@ -4,7 +4,7 @@ These are my personal i3 configurations which I use in conjunction with the [i3-
 
 ## Usage
 
-Individual configuration can be take and placed into your `config.d` directory or used for inspiration of some of the configuration you can use. The configuration contents can be copied into your i3-config or you can use the [i3-config.d](https://github.com/flungo/i3-config.d) script to use these as intended. To use all configurations in your i3, run the following command (assuming your i3 config is in `~/.config/i3` and that you do not already have a `~/.config/i3/config.d` directory):
+Individual configuration can be taken and placed into your `config.d` directory or used for inspiration of some of the configuration you can use. The configuration contents can be copied into your i3-config or you can use the [i3-config.d](https://github.com/flungo/i3-config.d) script to use these as intended. To use all configurations in your i3, run the following command (assuming your i3 config is in `~/.config/i3` and that you do not already have a `~/.config/i3/config.d` directory):
 
 ```
 git clone https://github.com/flungo/i3-config.d-configs.git ~/.config/i3/config.d
